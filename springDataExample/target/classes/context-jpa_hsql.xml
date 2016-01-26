@@ -9,6 +9,8 @@
                            http://www.springframework.org/schema/data/jpa
                            http://www.springframework.org/schema/data/jpa/spring-jpa.xsd">
 
+	<!-- Not working  -->
+	
 	<jpa:repositories base-package="auto.from.spring.data.example" />
 
 	<bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager"
