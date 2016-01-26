@@ -23,6 +23,8 @@ public class CustomerRepositoryTest {
 	@Test
 	public void test() {
 		
+		customerRepository.deleteAll();
+		
 		customerRepository.save(new Customer("Moa", "test"));
 		customerRepository.save(new Customer("Done", "vip"));
 		

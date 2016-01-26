@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="D:\atos\workspaces\luna\springDataExample"/>
+    <property name="user.dir" value="C:\Users\A606142\git\springDataExample\springDataExample"/>
     <property name="java.runtime.version" value="1.7.0_79-b15"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_79\jre\lib\endorsed"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="D:\atos\workspaces\luna\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3676600954041579501.tmp"/>
+    <property name="classworlds.conf" value="D:\atos\workspaces\luna\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4837611127929719533.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_79\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/bin/server;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/bin;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/lib/amd64;&quot;C:\KazanStudio\subversion\bin&quot;;&quot;C:\KazanStudio\ant\bin&quot;;&quot;C:\Program Files\Java\jdk1.7.0_79\bin&quot;;&quot;C:\maven\apache-maven-3.3.3\bin&quot;;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\KazanStudio\mercurial;&quot;E:\outils\gradle-2.3-bin\gradle-2.3\bin&quot;;C:\Program Files (x86)\nodejs\;C:\Program Files\TortoiseHg\;C:\Program Files (x86)\Git\cmd;C:\KazanStudio\mercurial;&quot;C:\KazanStudio\subversion\bin&quot;;&quot;C:\maven\apache-maven-3.3.3\bin&quot;;&quot;C:\KazanStudio\ant\bin&quot;;&quot;C:\Program Files\Java\jdk1.7.0_79\bin&quot;;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\KazanStudio\mercurial;C:\Users\A606142\AppData\Roaming\npm;D:\outils\eclipse-jee-luna-SR2-win32-x86_64\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -53,7 +53,7 @@
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_79\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_79\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="D:\atos\workspaces\luna\springDataExample\EMBEDDED"/>
+    <property name="maven.home" value="C:\Users\A606142\git\springDataExample\springDataExample\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>

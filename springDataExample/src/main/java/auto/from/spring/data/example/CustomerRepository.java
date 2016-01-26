@@ -18,4 +18,7 @@ public interface CustomerRepository extends CrudRepository<Customer, Long> {
 	@Query(FIND_BY_FIRSTNAME_QUERY)
 	public List<Customer> findByFirstNameQuery(@Param("firstName") String firstName);
 	
+//	public void deleteAll();
+	
+	
 }
